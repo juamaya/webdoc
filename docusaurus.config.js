@@ -56,6 +56,13 @@ const config = {
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
+
+     
+
+
+
+
+ 
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -82,6 +89,8 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: 'news/introNews', label: 'News', position: 'left'},
+          {to: 'news/introNews', label: 'JMA', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -112,10 +121,7 @@ const config = {
                 label: 'Discord',
                 href: 'https://discordapp.com/invite/docusaurus',
               },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
+           
             ],
           },
           {
@@ -132,7 +138,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `&copy; Copyright © ${new Date().getFullYear()} Juamaya 🍺 Project, Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

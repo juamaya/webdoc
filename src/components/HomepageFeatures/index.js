@@ -33,6 +33,36 @@ const FeatureList = [
       </>
     ),
   },
+
+{
+    title: 'Powered by JMA React',
+    Svg: require('@site/static/img/logo.svg').default,
+    description: (
+      <>
+      JUAMAYA 🍻 2025
+      </>
+    ),
+  },
+{
+    title: 'Powered by JMA React',
+    Svg: require('@site/static/img/logo.svg').default,
+    description: (
+      <>
+      JUAMAYA 🍻 2025
+      </>
+    ),
+  },
+
+  {
+    title: 'Powered by JMA React',
+    Svg: require('@site/static/img/logo.svg').default,
+    description: (
+      <>
+      JUAMAYA 🍻 2025
+      </>
+    ),
+  },
+
 ];
 
 function Feature({Svg, title, description}) {
