@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My webdoc',
+  title: 'Juamaya 🍺🍺 webdoc',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -89,6 +89,12 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+
+
+    
+
+ 
+
          
           {
             href: 'https://github.com/facebook/docusaurus',
@@ -100,6 +106,7 @@ const config = {
       footer: {
         style: 'dark',
         links: [
+
           {
             title: 'Docs',
             items: [
@@ -107,8 +114,15 @@ const config = {
                 label: 'Tutorial',
                 to: '/docs/intro',
               },
+
+                    {
+                label: 'Markdown JMA',
+                to: '/docs/tutoriales_JMA/Markdown',
+              },
             ],
           },
+
+
           {
             title: 'Community',
             items: [
@@ -131,8 +145,8 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'GitHub Juamaya',
+                href: 'https://github.com/juamaya',
               },
             ],
           },
