@@ -1,8 +1,10 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 ---
- 
----
+
+# Vite + React
+
+## Deploy App
  
 
 ![vite](https://vitejs.dev/logo-with-shadow.png)

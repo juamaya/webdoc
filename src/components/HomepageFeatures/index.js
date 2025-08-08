@@ -13,13 +13,12 @@ const FeatureList = [
       </>
     ),
   },
-  {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+ {
+    title: 'Powered by JMA React',
+    Svg: require('@site/static/img/logo.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+      JUAMAYA 🍻 2025
       </>
     ),
   },
@@ -33,35 +32,10 @@ const FeatureList = [
       </>
     ),
   },
+ 
+ 
 
-{
-    title: 'Powered by JMA React',
-    Svg: require('@site/static/img/logo.svg').default,
-    description: (
-      <>
-      JUAMAYA 🍻 2025
-      </>
-    ),
-  },
-{
-    title: 'Powered by JMA React',
-    Svg: require('@site/static/img/logo.svg').default,
-    description: (
-      <>
-      JUAMAYA 🍻 2025
-      </>
-    ),
-  },
-
-  {
-    title: 'Powered by JMA React',
-    Svg: require('@site/static/img/logo.svg').default,
-    description: (
-      <>
-      JUAMAYA 🍻 2025
-      </>
-    ),
-  },
+ 
 
 ];
 

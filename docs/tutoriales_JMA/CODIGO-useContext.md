@@ -1,6 +1,13 @@
+---
+sidebar_position: 8
+---
+
 # useCcontext
 
-## app_web/src/contexts/myVariableContext.jsx
+## app_web 
+
+
+>app_web/src/contexts/myVariableContext.jsx
 
 >Aqui creamos el contexto ***MyContext***
 
